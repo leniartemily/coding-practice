@@ -1,5 +1,4 @@
-# coding-practice
-# VBA-challenge
+# Python-challenge
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
